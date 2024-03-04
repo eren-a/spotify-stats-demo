@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Stats</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="header">
+        <h1>SPOTIFY STATS</h1>
+
+        <div class="container">
+
+            <label class="radio-container">
+                Last 30 days
+                <input type="radio" id="shortTerm" name="term" value="short_term" checked="checked" class="custom-radio">
+                <span class="checkmark"></span>
+            </label>
+
+            <label class="radio-container">
+                Last 6 months
+                <input type="radio" id="midTerm" name="term" value="medium_term" class="custom-radio">
+                <span class="checkmark"></span>
+            </label>
+
+            <label class="radio-container">
+                Lifetime
+                <input type="radio" id="longTerm" name="term" value="long_term" class="custom-radio">
+                <span class="checkmark"></span>
+            </label>
+
+        </div>
+        <br>
+        <label class="limit" for="limit">Number of artists/tracks:</label>
+        <input class="limit2" type="number" id="limit" name="limit" value="20" min="1" max="50">
+        <br>
+
+        <button id="getTopArtistsButton">show top artists</button>
+        <button id="getTopTracksButton">show top tracks</button>
+
+
+    </div>
+
+    <div id="topArtistsData"></div>
+    <div id="topTracksData"></div>
+
+    <script src="stats.js"></script>
+
+</body>
+
+</html>

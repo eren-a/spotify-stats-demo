@@ -1,0 +1,727 @@
+{
+    "items": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+            },
+            "followers": {
+                "href": null,
+                "total": 71535700
+            },
+            "genres": [
+                "k-pop",
+                "k-pop boy group",
+                "pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
+            "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
+                    "width": 160
+                }
+            ],
+            "name": "BTS",
+            "popularity": 87,
+            "type": "artist",
+            "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "followers": {
+                "href": null,
+                "total": 81324558
+            },
+            "genres": [
+                "detroit hip hop",
+                "hip hop",
+                "rap"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
+                    "width": 160
+                }
+            ],
+            "name": "Eminem",
+            "popularity": 90,
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+            },
+            "followers": {
+                "href": null,
+                "total": 47694047
+            },
+            "genres": [
+                "k-pop",
+                "k-pop girl group",
+                "pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/41MozSoPIsD1dJM0CLPjZF",
+            "id": "41MozSoPIsD1dJM0CLPjZF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174c9690bc711d04b3d4fd4b87c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178c9690bc711d04b3d4fd4b87c",
+                    "width": 160
+                }
+            ],
+            "name": "BLACKPINK",
+            "popularity": 81,
+            "type": "artist",
+            "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+            },
+            "followers": {
+                "href": null,
+                "total": 3273020
+            },
+            "genres": [
+                "j-pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6wxfx1yhyqjCPYwwxJktR2",
+            "id": "6wxfx1yhyqjCPYwwxJktR2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb649fb65d593a716596566a5e",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174649fb65d593a716596566a5e",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178649fb65d593a716596566a5e",
+                    "width": 160
+                }
+            ],
+            "name": "King Gnu",
+            "popularity": 72,
+            "type": "artist",
+            "uri": "spotify:artist:6wxfx1yhyqjCPYwwxJktR2"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6pHNd7opVLI17k79GvvIAb"
+            },
+            "followers": {
+                "href": null,
+                "total": 46881
+            },
+            "genres": [],
+            "href": "https://api.spotify.com/v1/artists/6pHNd7opVLI17k79GvvIAb",
+            "id": "6pHNd7opVLI17k79GvvIAb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb3c596b966a52379c5609a348",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051743c596b966a52379c5609a348",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1783c596b966a52379c5609a348",
+                    "width": 160
+                }
+            ],
+            "name": "Anime Allstars",
+            "popularity": 54,
+            "type": "artist",
+            "uri": "spotify:artist:6pHNd7opVLI17k79GvvIAb"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+            },
+            "followers": {
+                "href": null,
+                "total": 42557831
+            },
+            "genres": [
+                "dance pop",
+                "pop",
+                "uk pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051744e125f9c0f56dfb73fb97eaa",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1784e125f9c0f56dfb73fb97eaa",
+                    "width": 160
+                }
+            ],
+            "name": "Dua Lipa",
+            "popularity": 88,
+            "type": "artist",
+            "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+            },
+            "followers": {
+                "href": null,
+                "total": 7405758
+            },
+            "genres": [
+                "k-pop",
+                "k-pop girl group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
+            "id": "6HvZYsbFfjnjFrWF950C9d",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174f5d2200231e6ad75e8485476",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178f5d2200231e6ad75e8485476",
+                    "width": 160
+                }
+            ],
+            "name": "NewJeans",
+            "popularity": 80,
+            "type": "artist",
+            "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+            },
+            "followers": {
+                "href": null,
+                "total": 8030711
+            },
+            "genres": [
+                "anime",
+                "k-pop boy group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5t5FqBwTcgKTaWmfEbwQY9",
+            "id": "5t5FqBwTcgKTaWmfEbwQY9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051746a48a236a01fa62db8c7a6f6",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1786a48a236a01fa62db8c7a6f6",
+                    "width": 160
+                }
+            ],
+            "name": "ENHYPEN",
+            "popularity": 78,
+            "type": "artist",
+            "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+            },
+            "followers": {
+                "href": null,
+                "total": 5682972
+            },
+            "genres": [
+                "anime",
+                "j-pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1snhtMLeb2DYoMOcVbb8iB",
+            "id": "1snhtMLeb2DYoMOcVbb8iB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebc147e0888e83919d317c1103",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174c147e0888e83919d317c1103",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178c147e0888e83919d317c1103",
+                    "width": 160
+                }
+            ],
+            "name": "Kenshi Yonezu",
+            "popularity": 70,
+            "type": "artist",
+            "uri": "spotify:artist:1snhtMLeb2DYoMOcVbb8iB"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+            },
+            "followers": {
+                "href": null,
+                "total": 9591492
+            },
+            "genres": [
+                "k-pop",
+                "k-pop boy group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0ghlgldX5Dd6720Q3qFyQB",
+            "id": "0ghlgldX5Dd6720Q3qFyQB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051748b446e5bd3820ac772155b31",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1788b446e5bd3820ac772155b31",
+                    "width": 160
+                }
+            ],
+            "name": "TOMORROW X TOGETHER",
+            "popularity": 76,
+            "type": "artist",
+            "uri": "spotify:artist:0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+            },
+            "followers": {
+                "href": null,
+                "total": 14597113
+            },
+            "genres": [
+                "k-pop",
+                "k-pop boy group",
+                "pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+            "id": "2dIgFjalVxs4ThymZ67YCE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051740610877c41cb9cc12ad39cc0",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1780610877c41cb9cc12ad39cc0",
+                    "width": 160
+                }
+            ],
+            "name": "Stray Kids",
+            "popularity": 82,
+            "type": "artist",
+            "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+            },
+            "followers": {
+                "href": null,
+                "total": 6875643
+            },
+            "genres": [
+                "k-pop",
+                "k-pop girl group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2KC9Qb60EaY0kW4eH68vr3",
+            "id": "2KC9Qb60EaY0kW4eH68vr3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174b0e2700dbc17b43328038f7a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178b0e2700dbc17b43328038f7a",
+                    "width": 160
+                }
+            ],
+            "name": "ITZY",
+            "popularity": 73,
+            "type": "artist",
+            "uri": "spotify:artist:2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+            },
+            "followers": {
+                "href": null,
+                "total": 7396797
+            },
+            "genres": [
+                "j-pop",
+                "japanese teen pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
+            "id": "64tJ2EAv1R6UaZqc4iOCyj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17883e2d0c9611f1fb6baafcb36",
+                    "width": 160
+                }
+            ],
+            "name": "YOASOBI",
+            "popularity": 76,
+            "type": "artist",
+            "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+            },
+            "followers": {
+                "href": null,
+                "total": 1749676
+            },
+            "genres": [
+                "k-pop",
+                "k-pop girl group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
+            "id": "01XYiBYaoMJcNhPokrg0l0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174784d2270653c1d5d1cf43778",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178784d2270653c1d5d1cf43778",
+                    "width": 160
+                }
+            ],
+            "name": "STAYC",
+            "popularity": 62,
+            "type": "artist",
+            "uri": "spotify:artist:01XYiBYaoMJcNhPokrg0l0"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+            },
+            "followers": {
+                "href": null,
+                "total": 3727950
+            },
+            "genres": [
+                "k-pop girl group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6RHTUrRF63xao58xh9FXYJ",
+            "id": "6RHTUrRF63xao58xh9FXYJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051741e1e3c9c9582aba8686b42d2",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1781e1e3c9c9582aba8686b42d2",
+                    "width": 160
+                }
+            ],
+            "name": "IVE",
+            "popularity": 74,
+            "type": "artist",
+            "uri": "spotify:artist:6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+            },
+            "followers": {
+                "href": null,
+                "total": 8598665
+            },
+            "genres": [
+                "k-pop girl group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2AfmfGFbe0A0WsTYm0SDTx",
+            "id": "2AfmfGFbe0A0WsTYm0SDTx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174c112966f2a5abe5641abae6f",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178c112966f2a5abe5641abae6f",
+                    "width": 160
+                }
+            ],
+            "name": "(G)I-DLE",
+            "popularity": 77,
+            "type": "artist",
+            "uri": "spotify:artist:2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+            },
+            "followers": {
+                "href": null,
+                "total": 12399655
+            },
+            "genres": [
+                "lgbtq+ hip hop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+            "id": "7jVv8c5Fj3E9VhNjxT4snq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb0c3c7f83cf57525762802a1d",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051740c3c7f83cf57525762802a1d",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1780c3c7f83cf57525762802a1d",
+                    "width": 160
+                }
+            ],
+            "name": "Lil Nas X",
+            "popularity": 76,
+            "type": "artist",
+            "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+            },
+            "followers": {
+                "href": null,
+                "total": 4546519
+            },
+            "genres": [
+                "k-pop girl group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4SpbR6yFEvexJuaBpgAU5p",
+            "id": "4SpbR6yFEvexJuaBpgAU5p",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517473f96bdf146d008680149954",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17873f96bdf146d008680149954",
+                    "width": 160
+                }
+            ],
+            "name": "LE SSERAFIM",
+            "popularity": 81,
+            "type": "artist",
+            "uri": "spotify:artist:4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj"
+            },
+            "followers": {
+                "href": null,
+                "total": 46407
+            },
+            "genres": [
+                "j-pop boy group"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7lSZHedda1CjyJwI6Z9Zlj",
+            "id": "7lSZHedda1CjyJwI6Z9Zlj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27372e3878a258e8f4900b84d5f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0272e3878a258e8f4900b84d5f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485172e3878a258e8f4900b84d5f",
+                    "width": 64
+                }
+            ],
+            "name": "nobodyknows+",
+            "popularity": 47,
+            "type": "artist",
+            "uri": "spotify:artist:7lSZHedda1CjyJwI6Z9Zlj"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+            },
+            "followers": {
+                "href": null,
+                "total": 3776679
+            },
+            "genres": [
+                "j-pop",
+                "j-rock",
+                "visual kei"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
+            "id": "1EowJ1WwkMzkCkRomFhui7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
+                    "width": 160
+                }
+            ],
+            "name": "RADWIMPS",
+            "popularity": 71,
+            "type": "artist",
+            "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
+        }
+    ],
+    "total": 223,
+    "limit": 20,
+    "offset": 0,
+    "href": "https://api.spotify.com/v1/me/top/artists?limit=20&time_range=long_term&locale=en-US%2Cen%3Bq%3D0.9%2Cde%3Bq%3D0.8%2Cen-GB%3Bq%3D0.7",
+    "next": "https://api.spotify.com/v1/me/top/artists?offset=20&limit=20&time_range=long_term&locale=en-US%2Cen%3Bq%3D0.9%2Cde%3Bq%3D0.8%2Cen-GB%3Bq%3D0.7",
+    "previous": null
+}
