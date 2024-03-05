@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spotify Stats</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
 </head>
@@ -17,37 +17,37 @@
         <div class="container">
 
             <label class="radio-container">
-                Last 30 days
-                <input type="radio" id="shortTerm" name="term" value="short_term" checked="checked" class="custom-radio">
-                <span class="checkmark"></span>
+                <span>Last 30 days</span>
+                <input type="radio" id="shortTerm" name="term" value="short_term" checked="checked"
+                    class="custom-radio">
+                    
             </label>
 
             <label class="radio-container">
-                Last 6 months
+                <span>Last 6 months</span>
                 <input type="radio" id="midTerm" name="term" value="medium_term" class="custom-radio">
-                <span class="checkmark"></span>
             </label>
 
             <label class="radio-container">
-                Lifetime
+                <span>Lifetime</span>
                 <input type="radio" id="longTerm" name="term" value="long_term" class="custom-radio">
-                <span class="checkmark"></span>
             </label>
 
+            <div class="limit-container">
+                <label class="limit" for="limit">Number of artists/tracks:</label>
+                <input class="limit2" type="number" id="limit" name="limit" value="20" min="1" max="50">
+                <button id="getTopArtistsButton">show top artists</button>
+                <button id="getTopTracksButton">show top tracks</button>
+            </div>
         </div>
-        <br>
-        <label class="limit" for="limit">Number of artists/tracks:</label>
-        <input class="limit2" type="number" id="limit" name="limit" value="20" min="1" max="50">
-        <br>
-
-        <button id="getTopArtistsButton">show top artists</button>
-        <button id="getTopTracksButton">show top tracks</button>
-
 
     </div>
 
-    <div id="topArtistsData"></div>
-    <div id="topTracksData"></div>
+    <div class="data-container">
+        <div id="topArtistsData"></div>
+        <div id="topTracksData"></div>
+    </div>
+
 
     <script src="stats.js"></script>
 

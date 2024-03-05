@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
+    font-size: 24px;
+}
+
+@media screen and (max-width: 1200px) {
+    html {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    background-color: rgb(32, 32, 32);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: lightgray;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.radio-container {
+    width: 30rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    text-align: right;
+    padding: 0.3rem;
+}
+
+.radio-container input {
+    width: 1rem;
+}
+
+
+.limit-container {
+    width: 30rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    padding: 1rem;
+}
+
+.limit {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.limit2 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: grey;
+    text-align: center;
+}
+
+.limit2:focus {
+    outline: none;
+}
+
+.limit-container button {
+    width: 15rem;
+    margin-right: 0.5rem;
+    color: lightgray;
+    background-color: rgb(28, 28, 28);
+
+    transition: box-shadow 0.3s;
+    box-shadow: 10px 10px 10px rgb(20, 20, 20);
+    border: 0px;
+    padding: 6px 10px;
+}
+
+.limit-container button:hover {
+    transition: 0.3s;
+    background-color: grey;
+    color: white;
+
+    box-shadow: 5px 5px 0px rgb(20, 20, 20);
+}
+
+.data-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+#topArtistsData,
+#topTracksData {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+
+@media screen and (max-width: 1200px) {
+
+    #topArtistsData,
+    #topTracksData {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 1rem;
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+    #topArtistsData,
+    #topTracksData {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+}
+
+
+
+#topArtistsData img,
+#topTracksData img {
+    width: 10rem;
+    border-radius: 0.5rem;
+
+    opacity: 1;
+    transition: opacity 0.3s, transform 0.3s;
+}
+
+#topArtistsData img:hover,
+#topTracksData img:hover {
+    transform: scale(1.1);
+    opacity: 0.3;
+}
+
+
+.artist-container {
+    max-width: 10rem;
+}
+
+.artist-container p {
+    font-size: 0.5rem;
+}
